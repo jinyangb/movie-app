@@ -1,11 +1,11 @@
-# movie-app
+# Movie App
 
 
 ---
 
 **_Description_**
 
-Displays current popular movies, ratings, and descriptions.
+Displays current popular movies, rating, description, and the option to search.
 
 ---
 
@@ -16,8 +16,6 @@ Displays current popular movies, ratings, and descriptions.
 - Node
 - CSS
 - API
-
-![Screenshot](screenshot.png)
 
 ---
 
